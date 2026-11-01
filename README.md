@@ -2,7 +2,7 @@
 
 A private client-gallery platform for photographers, in the style of Pixieset. A photographer creates a gallery per shoot, uploads photos into it, and invites clients to view the gallery and mark favorites.
 
-<!-- CI badge goes here -->
+![CI](https://github.com/rohithrag94-stack/snapvault/actions/workflows/ci.yml/badge.svg)
 
 ## Tech stack
 
